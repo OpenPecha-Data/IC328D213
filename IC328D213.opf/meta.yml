@@ -1,0 +1,30 @@
+id: IC328D213
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-11T13:36:53.773044'
+last_modified: '2022-06-11T13:36:53.773049'
+parser: null
+source_metadata:
+  title: Mandāravā Series
+  language: bo
+  description: 'Texts about the eighth-century Indian princess Mandāravā (man+DA ra
+    bA), one of the consorts of Guru Padmasambhava:'
+  volume:
+    f9A54:
+      title: 'Music to Delight the Ḍākinī: A Praise to the Deathless Mandāravā'
+      base_file: f9A54.txt
+      order: 1
+      parent: Praise
+    fB3E6:
+      title: A Prayer Recounting the Lives and Liberation of the Exalted Ḍākinī Mandāravā
+      base_file: fB3E6.txt
+      order: 2
+      parent: Prayers
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
